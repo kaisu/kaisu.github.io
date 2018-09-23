@@ -17,9 +17,23 @@ h1 {
 
 }
 
+.menu {
+	display: inline-block;
+	height: 500px;
+}
+
 .intro {
 	/*font-style: italic;*/
-	letter-spacing: 3px;
+	letter-spacing: 5px;
+	text-align: center;
+	align-content: center;
+	margin-top: 30px;
+}
+
+.pagecontent {
+	text-align: center;
+	align-content: center;
+	margin-top: 10px;
 }
 
 /* header */
@@ -54,6 +68,7 @@ li a {
     color: white;
     padding: 8px 16px;
     text-decoration: none;
+    font-size: 20px;
 }
 
 /* Change the link color on hover */
