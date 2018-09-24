@@ -34,8 +34,15 @@ h1 {
 .pagecontent {
 	text-align: center;
 	align-content: center;
-	margin-top: 30px;
+	margin-top: 5px;
 	letter-spacing: 2px;
+}
+
+.biocontent {
+	text-align: left;
+	margin-top: 5px;
+	font-size: 15px;
+	padding-left: 50px;
 }
 
 /* header */
@@ -58,6 +65,26 @@ h1 {
 
 #videos {
 	padding-left: 80px;
+}
+
+a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+
+a:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #253B40;
+    background-color: transparent;
+    text-decoration: none;
 }
 
 
