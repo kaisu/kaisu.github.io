@@ -9,7 +9,7 @@ body {
 }
 
 h1 {
-  font-size: 500%;
+  font-size: 600%;
   font-weight: normal;
   margin-top: 70px;
   margin-bottom: 40px;
@@ -25,9 +25,10 @@ h1 {
 .intro {
 	/*font-style: italic;*/
 	letter-spacing: 5px;
-	text-align: center;
-	align-content: center;
-	margin-top: 30px;
+	text-align: right;
+	align-content: right;
+	margin-top: 5px;
+	font-size: 16px;
 }
 
 .pagecontent {
@@ -39,21 +40,25 @@ h1 {
 
 /* header */
 .container-header {
-  width: 70%;
+  width: 60%;
   padding-right: 15px;
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
+  color: #FFF9DA;
 }
 
 .container-main {
-  width: 70%;
+  width: 60%;
   padding-right: 15px;
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
 }
 
+#videos {
+	padding-left: 80px;
+}
 
 
 ul {
@@ -75,7 +80,7 @@ li a {
 /* Change the link color on hover */
 li a:hover {
     background-color: black;
-    color: #783;
+    color: #253B40;
     text-decoration: none;
 }
 
