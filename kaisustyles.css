@@ -8,6 +8,7 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
+
 h1 {
   font-size: 600%;
   font-weight: normal;
@@ -17,10 +18,21 @@ h1 {
 
 }
 
-.menu {
-	display: inline-block;
-	height: 500px;
+
+@media screen and (max-width: 600px) {
+	.menu {
+		visibility: hidden;
+	}
 }
+
+@media screen and (min-width: 600px) {
+	.menu {
+		display: inline-block;
+		height: 500px;
+	}
+
+}
+
 
 .intro {
 	/*font-style: italic;*/
