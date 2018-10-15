@@ -15,7 +15,8 @@ h1 {
   margin-top: 70px;
   margin-bottom: 40px;
   font-family: 'Great Vibes', cursive;
-
+  color: #FFF9DA;
+  text-align: center;
 }
 
 
@@ -23,7 +24,22 @@ h1 {
 	.menu {
 		visibility: hidden;
 	}
+
+	.menu-placeholder {
+		visibility: hidden;
+	}
+
+	.intro {
+		/*font-style: italic;*/
+		letter-spacing: 5px;
+		text-align: center;
+		align-content: center;
+		margin-top: 5px;
+		font-size: 16px;
+	}
+
 }
+
 
 @media screen and (min-width: 600px) {
 	.menu {
@@ -33,6 +49,18 @@ h1 {
 
 	.menu-drop {
 		visibility: hidden;
+	}
+
+	.intro {
+		/*font-style: italic;*/
+		letter-spacing: 5px;
+		text-align: right;
+		margin-top: 5px;
+		font-size: 16px;
+	}
+
+	.menu-placeholder {
+		visibility: visible;
 	}
 
 }
@@ -61,15 +89,7 @@ h1 {
 	padding-left: 50px;
 }
 
-/* header */
-.container-header {
-  width: 60%;
-  padding-right: 15px;
-  padding-left: 15px;
-  margin-right: auto;
-  margin-left: auto;
-  color: #FFF9DA;
-}
+
 
 .container-main {
   width: 60%;
@@ -92,7 +112,12 @@ h1 {
     background-color: black;
 }
 
-.dropdown-content a {
+a.dropdown-toggle:hover {
+	color: white;
+}
+
+
+/*.dropdown-content a {
     color: black;
     background-color: black;
     padding: 12px 16px;
@@ -102,7 +127,7 @@ h1 {
 
 .dropdown:hover .dropdown-content {
     display: block;
-}
+}*/
 
 
 
