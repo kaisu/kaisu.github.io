@@ -20,13 +20,18 @@ h1 {
 }
 
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 740px) {
 	.menu {
 		visibility: hidden;
 	}
 
 	.menu-placeholder {
 		visibility: hidden;
+		height: 0;
+	}
+
+	.menu-drop {
+		height: 50px;
 	}
 
 	.intro {
@@ -38,10 +43,15 @@ h1 {
 		font-size: 16px;
 	}
 
+	.content-row {
+		width: 100%;
+		margin: auto;
+	}
+
 }
 
 
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 740px) {
 	.menu {
 		display: inline-block;
 		height: 500px;
@@ -63,8 +73,16 @@ h1 {
 		visibility: visible;
 	}
 
+	.content-row {
+		width: 80%;
+		margin: auto;
+	}
+
 }
 
+.container-main {
+  width: 100%;
+}
 
 .intro {
 	/*font-style: italic;*/
@@ -91,13 +109,13 @@ h1 {
 
 
 
-.container-main {
+/*.container-main {
   width: 60%;
   padding-right: 15px;
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
-}
+}*/
 
 #videos {
 	padding-left: 80px;
@@ -116,19 +134,16 @@ a.dropdown-toggle:hover {
 	color: white;
 }
 
-
-/*.dropdown-content a {
+.dropdown-content a {
     color: black;
     background-color: black;
     padding: 12px 16px;
     text-decoration: none;
     display: block;
 }
-
 .dropdown:hover .dropdown-content {
     display: block;
-}*/
-
+}
 
 
 a:link {
