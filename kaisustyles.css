@@ -31,6 +31,10 @@ h1 {
 		height: 500px;
 	}
 
+	.menu-drop {
+		visibility: hidden;
+	}
+
 }
 
 
@@ -79,9 +83,32 @@ h1 {
 	padding-left: 80px;
 }
 
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-menu {
+    background-color: black;
+}
+
+.dropdown-content a {
+    color: black;
+    background-color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+
+
 a:link {
     color: white;
-    background-color: transparent;
+    background-color: black;
     text-decoration: none;
     font-weight: bold;
 }
@@ -114,6 +141,7 @@ li a {
     padding: 8px 16px;
     text-decoration: none;
     font-size: 20px;
+    background-color: black;
 }
 
 /* Change the link color on hover */
