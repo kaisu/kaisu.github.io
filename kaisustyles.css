@@ -70,7 +70,7 @@ h1 {
 .intro {
 	letter-spacing: 5px;
 	text-align: center;
-	margin-top: 5px;
+	margin-top: 10px;
 	font-size: 16px;
 }
 
@@ -88,6 +88,17 @@ h1 {
 	margin-top: 5px;
 	font-size: 15px;
 	padding-left: 50px;
+}
+
+
+.imgcaption {
+	font-style: italic;
+	white-space: pre;
+	position: absolute;
+	bottom: -50px;
+	font-size: 10px;
+	margin-left: 200px;
+	color: #4F6060;
 }
 
 
