@@ -2,10 +2,15 @@
 layout: default
 ---
 
-<div class="col-sm-3">
-	<p class="pagecontent">kaisu.olander (at) gmail.com</p>
-</div>
+<div class="container">
+	<div class="row">
+		
+	<div class="col">
+		<p class="pagecontent">kaisu.olander (at) gmail.com</p>
+	</div>
+	<div class="col">
+			<img src="./images/mainHoop.jpg" width="90%" style="float:right">
+	</div>
 
-<div class="col-sm-4">
-		<img src="./images/mainHoop.jpg" width="90%" style="float:right">
+	</div>
 </div>

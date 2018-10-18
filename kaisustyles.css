@@ -78,6 +78,10 @@ h1 {
 		margin: auto;
 	}
 
+	.videocontent {
+		padding-left: 80px;
+	}
+
 }
 
 .container-main {
@@ -107,11 +111,6 @@ h1 {
 	padding-left: 50px;
 }
 
-
-
-#videos {
-	padding-left: 80px;
-}
 
 .dropdown {
     position: relative;
