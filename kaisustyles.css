@@ -83,21 +83,13 @@ h1 {
 }
 
 
-.biocontent {
-	text-align: left;
-	margin-top: 5px;
-	font-size: 15px;
-	padding-left: 50px;
-}
-
-
 .imgcaption {
 	font-style: italic;
 	white-space: pre;
 	position: absolute;
-	bottom: -50px;
-	font-size: 10px;
-	margin-left: 170px;
+	bottom: -40px;
+	font-size: 12px;
+	margin-left: 100px;
 	color: #4F6060;
 }
 

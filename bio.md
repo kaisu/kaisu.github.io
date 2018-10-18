@@ -2,8 +2,18 @@
 layout: default
 ---
 
-<div class="col-sm-9">
-	<p class="biocontent">Teaching aerial hoop classes at  <a href="https://www.verticalclub.fi/">Vertical Club</a>. </p>
+<div class="container">
+	<div class="row">
+		
+	<div class="col-sm-12 col-md-6">
+		<p class="biocontent">Teaching aerial hoop classes at  <a href="https://www.verticalclub.fi/">Vertical Club</a>. </p>
+	</div>
+	<div class="col-sm-12 col-md-6">
+			<img src="./images/portrait.jpg" width="90%" style="float:right">
+			<h2 class="imgcaption">photo by Pete Voutilainen</h2>
+	</div>
+
+	</div>
 </div>
 
 <!--

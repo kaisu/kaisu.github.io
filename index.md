@@ -6,7 +6,6 @@ layout: default
 	<div class="row">
 		
 	<div class="col-sm-12 col-md-5">
-		<!--p class="intro">aerial acrobatics <br>handbalancing <br> dance</p-->
 		<p class="intro">AERIAL ACROBATICS<br>HANDBALANCING<br>DANCE</p>
 	</div>
 	<div class="col-sm-12 col-md-7">
