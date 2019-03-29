@@ -15,7 +15,7 @@ layout: default
 		<br> Pole dancing 2009 - 2012
 		<br>
 		<br> TEACHING
-		<br> Currently teaching (mostly) aerial hoop classes at  <a href="https://www.verticalclub.fi/">Vertical Club</a>, occasionally also pole dancing, handstands and hammock tricks. Private lessons are possible.
+		<br> Currently teaching (mostly) aerial hoop classes at <a href="https://www.verticalclub.fi/">Vertical Club</a>, occasionally also pole dancing, handstands and hammock tricks. Private lessons are possible.
 		<br>
 		<br> SHOW HIGHLIGHTS
 		<li> <i>Body Good</i>, aerial hoop, Circus Helsinki Open Stage, 2018</li>
@@ -31,6 +31,3 @@ layout: default
 	</div>
 </div>
 
-<!--
-Kaisu Ölander aloitti akrobatialajien harrastamisen tankotanssilla vuonna 2009. Ennen tätä Kaisu oli harrastanut nuoruudessaan lähinnä ratsastusta. Innostuttuaan tankotanssista hän meni vuotta myöhemmin sirkustunneille ja jäi sille tielle. Tankotanssin korvasivat vähitellen ilma-akrobatia ja käsinseisonta. Kaisu on kokenut esiintyjä rengastrapetsilla ja köydellä, joita hän treenaa tällä hetkellä aktiivisimmin käsinseisonnan lisäksi. Kaisun mielestä rengastrapetsilla pyöriminen on yksi elämän parhaista asioista, joten hänen tunneillaan saat varmasti pään pyörälle. Ammattitaitoaan hän kasvattaa vuosittain Irlannissa kansainvälisesti arvostettujen opettajien ohjauksessa. Kaisu ohjaa Vertical Clubilla rengastrapetsitunteja.
--->

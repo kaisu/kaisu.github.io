@@ -91,6 +91,13 @@ h1 {
 	height: 100%;
 }
 
+.videotitle {
+	margin-top: 10px;
+	margin-bottom: -1px;
+	font-size: 110%;
+	text-align: center;
+}
+
 
 .picturerow {
     display: -ms-flexbox; /* IE10 */
