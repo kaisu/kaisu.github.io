@@ -115,6 +115,10 @@ h1 {
 	font-size: 16px;
 }
 
+.biocontent {
+	text-align: justify;
+}
+
 
 .phototitle {
 	letter-spacing: 5px;
@@ -134,6 +138,7 @@ h1 {
 
 
 .imgcaption {
+	display: inline-block;
 	font-style: italic;
 	white-space: pre;
 	position: absolute;
